@@ -46,3 +46,5 @@ const About = () => {
 }
 
 export default About
+
+// i donno why its not working
